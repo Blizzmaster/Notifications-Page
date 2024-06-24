@@ -4,17 +4,12 @@ This is a solution to the [Notifications page challenge on Frontend Mentor](http
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 - Solution URL: https://github.com/Blizzmaster/Notifications-Page
 
@@ -43,7 +38,7 @@ I will review each of the challenges on the page to improve my front-end develop
 ### Useful resources
 
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs/installation) - I review a lot the Tailwind Docs to create the webpage template  
-- [Coing Tube Challenge Atempt](https://www.youtube.com/CodingTube) - This is an amazing channel where he teach me how to make the web page template . I use the TailwindCSS instead pure CSS to improve the code readibility
+- [Coding Tube Challenge Atempt](https://www.youtube.com/CodingTube) - This is an amazing channel where he teach me how to make the web page template . I use the TailwindCSS instead pure CSS to improve the code readibility
 
 ## Author
 
