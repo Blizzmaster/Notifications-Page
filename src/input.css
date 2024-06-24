@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    @font-face {
+        font-family: 'Plus Jakarta Sans';
+        src: url(../assets/fonts/PlusJakartaSans-VariableFont_wght.ttf);
+    }
+}
+
+@layer components
+{
+    .counter
+    {
+        @apply w-8 h-6 inline-block bg-primary-blue text-neutral-white text-center rounded-md
+    }
+
+    .read-status
+    {
+       @apply inline-block rounded-full bg-primary-red w-2 h-2 ml-2;
+    }
+
+    .post
+    {
+      @apply flex gap-3 p-4 text-sm  text-neutral-dark-grayish-blue mt-0 mb-3
+    }
+
+    .unread
+    {
+      @apply bg-neutral-very-light-grayish-blue rounded-lg cursor-pointer
+    }
+
+    .name
+    {
+        @apply font-bold text-neutral-very-dark-blue hover:text-primary-blue cursor-pointer
+    }
+
+    .reaction
+    {
+        @apply font-bold hover:text-primary-blue cursor-pointer
+    }
+
+    .time
+    {
+        @apply text-neutral-grayish-blue text-sm font-medium
+    }
+}
+
+body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
